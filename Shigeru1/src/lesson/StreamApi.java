@@ -124,16 +124,16 @@ class Person0001122 {
 }
 class Person000xxxxxxxx {
 	Person000xxxxxxxx(String name, int age) {
-		this.name2 = name;
+		this.name9 = name;
 		this.age = age;
 	}
-	String name2;
+	String name9;
 	int age;
 	public String getName() {
-		return name2;
+		return name9;
 	}
 	public void setName(String name) {
-		this.name2 = name;
+		this.name9 = name;
 	}
 	public int getAge() {
 		return age;
