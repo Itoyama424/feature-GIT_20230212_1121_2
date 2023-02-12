@@ -53,8 +53,8 @@ class Person {
 		return this;
 	}
 }
-class Person0001 {
-	Person0001(String name, int age) {
+class Person00011 {
+	Person00011(String name, int age) {
 		this.name = name;
 		this.age = age;
 	}
@@ -72,7 +72,7 @@ class Person0001 {
 	public void setAge(int age) {
 		this.age = age;
 	}
-	public Person0001 getMe() {
+	public Person00011 getMe() {
 		return this;
 	}
 }
