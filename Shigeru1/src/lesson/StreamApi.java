@@ -122,3 +122,26 @@ class Person0001122 {
 		return this;
 	}
 }
+class Person000xxxxxxxx {
+	Person000xxxxxxxx(String name, int age) {
+		this.name3 = name;
+		this.age = age;
+	}
+	String name3;
+	int age;
+	public String getName() {
+		return name3;
+	}
+	public void setName(String name) {
+		this.name3 = name;
+	}
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	public Person000xxxxxxxx getMe() {
+		return this;
+	}
+}
