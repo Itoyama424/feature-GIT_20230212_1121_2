@@ -168,6 +168,29 @@ class Person000xxxxxxxx2 {
 		return this;
 	}
 }
+class Person000xxxxxxxx3 {
+	Person000xxxxxxxx3(String name, int age) {
+		this.name9yy = name;
+		this.age = age;
+	}
+	String name9yy;
+	int age;
+	public String getName() {
+		return name9yy;
+	}
+	public void setName(String name) {
+		this.name9yy = name;
+	}
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	public Person000xxxxxxxx3 getMe() {
+		return this;
+	}
+}
 class Person000xxxxxxxx4 {
 	Person000xxxxxxxx4(String name, int age) {
 		this.name9yy = name;
