@@ -53,3 +53,26 @@ class Person {
 		return this;
 	}
 }
+class Person0001 {
+	Person0001(String name, int age) {
+		this.name = name;
+		this.age = age;
+	}
+	String name;
+	int age;
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	public Person0001 getMe() {
+		return this;
+	}
+}
