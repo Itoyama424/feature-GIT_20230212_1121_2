@@ -191,8 +191,8 @@ class Person000xxxxxxxx3 {
 		return this;
 	}
 }
-class Person000xxxxxxxx4 {
-	Person000xxxxxxxx4(String name, int age) {
+class Person000xxxxxxxx99 {
+	Person000xxxxxxxx99(String name, int age) {
 		this.name9yy = name;
 		this.age = age;
 	}
@@ -201,6 +201,7 @@ class Person000xxxxxxxx4 {
 	public String getName() {
 		return name9yy;
 	}
+	//bb
 	public void setName(String name) {
 		this.name9yy = name;
 	}
@@ -210,7 +211,8 @@ class Person000xxxxxxxx4 {
 	public void setAge(int age) {
 		this.age = age;
 	}
-	public Person000xxxxxxxx4 getMe() {
+	public Person000xxxxxxxx99 getMe() {
 		return this;
 	}
+	//aa
 }
