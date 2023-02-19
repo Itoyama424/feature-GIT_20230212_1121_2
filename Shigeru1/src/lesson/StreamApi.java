@@ -216,8 +216,8 @@ class Person000xxxxxxxx99 {
 	}
 	//cc
 }
-class TEST0003 {
-	TEST0003(String name, int age) {
+class TEST0004 {
+	TEST0004(String name, int age) {
 		this.name9yy = name;
 		this.age = age;
 	}
@@ -236,7 +236,7 @@ class TEST0003 {
 	public void setAge(int age) {
 		this.age = age;
 	}
-	public TEST0003 getMe() {
+	public TEST0004 getMe() {
 		return this;
 	}
 	//cc
