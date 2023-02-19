@@ -216,3 +216,28 @@ class Person000xxxxxxxx99 {
 	}
 	//cc
 }
+class TEST0001 {
+	TEST0001(String name, int age) {
+		this.name9yy = name;
+		this.age = age;
+	}
+	String name9yy;
+	int age;
+	public String getName() {
+		return name9yy;
+	}
+	//bb
+	public void setName(String name) {
+		this.name9yy = name;
+	}
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	public TEST0001 getMe() {
+		return this;
+	}
+	//cc
+}
